@@ -78,9 +78,10 @@ MIT License — use, modify, and share freely.
 
 ## 👨‍💻 Author
 
-Developed by :
-[Herwin Dermawan],
-[Krisna Aji Nugroho],
-[Nirwasita Isna Agata],
-[Keiko Hana Sheika],
-[Muhammad Mahasibil'Aly]
+Developed by : [
+  Herwin Dermawan,
+  Krisna Aji Nugroho,
+  Nirwasita Isna Agata,
+  Keiko Hana Sheika,
+  Muhammad Mahasibil'Aly
+]
