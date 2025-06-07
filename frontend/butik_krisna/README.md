@@ -1,16 +1,74 @@
-# butik_krisna
+# 🛍️ Butik Krisna — Boutique Store Flutter App
 
-A new Flutter project.
+This is a Flutter mobile application developed for a boutique store called **Butik Krisna**, primarily focused on selling **toppers** (decorative accessories). The app provides a clean, responsive UI for users to explore and browse store items.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 📱 App Features
 
-A few resources to get you started if this is your first Flutter project:
+- 🏪 Boutique-themed store layout
+- 🎀 Showcases decorative toppers
+- 🧭 Intuitive navigation with category sections
+- 📦 Product listings with images and details
+- ⚡ Fast and responsive on Android
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠 Technologies Used
+
+- **Flutter** — UI toolkit
+- **Dart** — Programming language
+- **Material Design** — For UI styling
+
+---
+
+## 📁 Folder Structure
+
+```
+butik_krisna/
+├── android/          # Android native code
+├── ios/              # iOS native code
+├── lib/              # Dart source code (main logic)
+├── assets/           # App images and fonts
+├── web/, linux/, macos/, windows/ — Multiplatform support
+├── pubspec.yaml      # Dependency config
+└── README.md
+```
+
+---
+
+## 🚀 Getting Started
+
+1. **Clone the repository**
+
+```bash
+git clone https://github.com/your-username/project-flutter.git
+cd frontend/butik_krisna
+```
+
+2. **Get dependencies**
+
+```bash
+flutter pub get
+```
+
+3. **Run the app**
+
+```bash
+flutter run
+```
+
+> Make sure a device/emulator is connected.
+
+---
+
+
+## 📄 License
+
+This project is developed for educational purposes and may be freely explored and modified.
+
+---
+
+## 👨‍💻 Authors
+
+Developed by my team for a boutique shopping experience focused on fashion toppers.
